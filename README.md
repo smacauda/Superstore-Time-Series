@@ -39,7 +39,7 @@ Exponential smoothing is a rule of thumb technique for smoothing time series dat
 ## Results
 
 | Model | MSE | RMSE | MAPE |
-| :---         |     :---:      |     :---:      |          ---: |
+| :---  | :---: | :---:  | ---: |
 | ARMA   | 87,237.01   | 295.36    |33.88|
 | ARIMA | 79,804.31  | 282.5  |35.07  |
 | SARIMA 1 | 42,305.37  | 205.68  | 28.89  |
