@@ -45,7 +45,7 @@ Exponential smoothing is a rule of thumb technique for smoothing time series dat
 | ARIMA | 39996.01  | 199.99  |28.65 |
 | DES | 420545.2 | 648.49 | 100.74 |
 | TES | 40603.56  | 201.5  | 27.45  |
-| Prophet | 37,992.52  | 194.92  | 26.67  |
+| Prophet | 124539.53  | 291.11  | 0.34  |
 | Vanilla LSTM | 18,829.66  | 137.22  | 18.39  |
 | Stacked LSTM | 16,515.49  | 128.51  | 17.34  |
 | Bidirectional LSTM | 53,981.32  | 232.34  | 31.4  |
@@ -59,7 +59,7 @@ Exponential smoothing is a rule of thumb technique for smoothing time series dat
 | ARIMA | 142623.98  | 377.66  | 30.27 |
 | DES | 252679.99  | 502.67  | 76.53 |
 | TES | 48790.19  | 220.89  | 27.1 |
-| Prophet | 37,992.52  | 194.92  | 26.67  |
+| Prophet | 631328.33  | 663.29  | 0.63  |
 | Vanilla LSTM | 18,829.66  | 137.22  | 18.39  |
 | Stacked LSTM | 16,515.49  | 128.51  | 17.34  |
 | Bidirectional LSTM | 53,981.32  | 232.34  | 31.4  |
@@ -73,7 +73,7 @@ Exponential smoothing is a rule of thumb technique for smoothing time series dat
 | ARIMA | 70427.02  | 265.38  | 25.26  |
 | DES | 238122.24  | 487.98  | 74.9 |
 | TES | 91942.47  | 303.22  | 43.93  |
-| Prophet | 37,992.52  | 194.92  | 26.67  |
+| Prophet | 183175.03  | 385.51  | 0.49  |
 | Vanilla LSTM | 18,829.66  | 137.22  | 18.39  |
 | Stacked LSTM | 16,515.49  | 128.51  | 17.34  |
 | Bidirectional LSTM | 53,981.32  | 232.34  | 31.4  |
