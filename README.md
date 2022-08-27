@@ -53,27 +53,26 @@ Exponential smoothing is a rule of thumb technique for smoothing time series dat
 
 ### Technology
 
-| Model | MSE | RMSE | MAPE |
-| :---  | :---: | :---:  | ---: |
-| ARIMA | 142623.98  | 377.66  | 30.27 |
-| DES | 252679.99  | 502.67  | 76.53 |
-| TES | 48790.19  | 220.89  | 27.1 |
-| Prophet | 631328.33  | 663.29  | 0.63  |
-| Vanilla LSTM | 145070.55  | 380.88  | 131.52 |
-| Stacked LSTM | 16,515.49  | 128.51  | 17.34  |
-| Bidirectional LSTM | 53,981.32  | 232.34  | 31.4  |
-| LSTM 1| 68,671.5  | 262.05  | 29.4  |
-| CNN| 39,938.47  | 199.85  | 22.26  |
+[comment]: <> | Model | MSE | RMSE | MAPE |
+[comment]: <> | :---  | :---: | :---:  | ---: |
+[comment]: <> | ARIMA | 142623.98  | 377.66  | 30.27 |
+[comment]: <> | DES | 252679.99  | 502.67  | 76.53 |
+[comment]: <> | TES | 48790.19  | 220.89  | 27.1 |
+[comment]: <> | Prophet | 631328.33  | 663.29  | 0.63  |
+[comment]: <> | Vanilla LSTM | 145070.55  | 380.88  | 131.52 |
+[comment]: <> | Stacked LSTM | 16,515.49  | 128.51  | 17.34  |
+[comment]: <> | Bidirectional LSTM | 53,981.32  | 232.34  | 31.4  |
+[comment]: <> | CNN| 39,938.47  | 199.85  | 22.26  |
 
 ### Office
 
-/* | Model | MSE | RMSE | MAPE |
-| :---  | :---: | :---:  | ---: |
-| ARIMA | 70427.02  | 265.38  | 25.26  |
-| DES | 238122.24  | 487.98  | 74.9 |
-| TES | 91942.47  | 303.22  | 43.93  |
-| Prophet | 183175.03  | 385.51  | 0.49  |
-| Vanilla LSTM | 18,829.66  | 137.22  | 18.39  |
-| Stacked LSTM | 16,515.49  | 128.51  | 17.34  |
-| Bidirectional LSTM | 53,981.32  | 232.34  | 31.4  |
-| CNN| 39,938.47  | 199.85  | 22.26  | */
+[comment]: <> | Model | MSE | RMSE | MAPE |
+[comment]: <> | :---  | :---: | :---:  | ---: |
+[comment]: <> | ARIMA | 70427.02  | 265.38  | 25.26  |
+[comment]: <> | DES | 238122.24  | 487.98  | 74.9 |
+[comment]: <> | TES | 91942.47  | 303.22  | 43.93  |
+[comment]: <> | Prophet | 183175.03  | 385.51  | 0.49  |
+[comment]: <> | Vanilla LSTM | 18,829.66  | 137.22  | 18.39  |
+[comment]: <> | Stacked LSTM | 16,515.49  | 128.51  | 17.34  |
+[comment]: <> | Bidirectional LSTM | 53,981.32  | 232.34  | 31.4  |
+[comment]: <> | CNN| 39,938.47  | 199.85  | 22.26  | 
