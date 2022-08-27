@@ -43,8 +43,8 @@ Exponential smoothing is a rule of thumb technique for smoothing time series dat
 | Model | MSE | RMSE | MAPE |
 | :---  | :---: | :---:  | ---: |
 | ARIMA | 39996.01  | 199.99  |28.65 |
-| DES | 420545.2 | 648.49 | 100.74 |
-| TES | 40603.56  | 201.5  | 27.45  |
+| Double Exponential Smoothing | 420545.2 | 648.49 | 100.74 |
+| Triple Exponential Smoothing | 40603.56  | 201.5  | 27.45  |
 | Prophet | 124539.53  | 291.11  | 0.34  |
 | Vanilla LSTM | 18578.57  | 136.3  | 17.81  |
 | Stacked LSTM | 21951.72  | 148.16  | 18.36 |
