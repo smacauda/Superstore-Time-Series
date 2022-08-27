@@ -53,6 +53,8 @@ Exponential smoothing is a rule of thumb technique for smoothing time series dat
 
 ### Technology
 
+Analysis in progress.
+
 [//]: <> (| Model | MSE | RMSE | MAPE |)
 [//]: <> (| :---  | :---: | :---:  | ---: |)
 [//]: <> (| ARIMA | 142623.98  | 377.66  | 30.27 |)
@@ -66,6 +68,8 @@ Exponential smoothing is a rule of thumb technique for smoothing time series dat
 
 ### Office
 
+Analysis in progress.
+
 [//]: <> (| Model | MSE | RMSE | MAPE |)
 [//]: <> (| :---  | :---: | :---:  | ---: |)
 [//]: <> (| ARIMA | 70427.02  | 265.38  | 25.26  |)
@@ -76,4 +80,4 @@ Exponential smoothing is a rule of thumb technique for smoothing time series dat
 [//]: <> (| Stacked LSTM | 16,515.49  | 128.51  | 17.34  |)
 [//]: <> (| Bidirectional LSTM | 53,981.32  | 232.34  | 31.4  |)
 [//]: <> (| CNN| 39,938.47  | 199.85  | 22.26  | )
-)
+
