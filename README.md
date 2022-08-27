@@ -47,9 +47,9 @@ Exponential smoothing is a rule of thumb technique for smoothing time series dat
 | TES | 40603.56  | 201.5  | 27.45  |
 | Prophet | 124539.53  | 291.11  | 0.34  |
 | Vanilla LSTM | 18578.57  | 136.3  | 17.81  |
-| Stacked LSTM | 34666.84  | 186.19  | 17.34  |
-| Bidirectional LSTM | 53,981.32  | 232.34  | 31.4 |
-| CNN| 39,938.47  | 199.85  | 22.26  |
+| Stacked LSTM | 21951.72  | 148.16  | 18.36 |
+| Bidirectional LSTM | 77062.45  | 277.6  | 29.72 |
+| CNN| 55400.07  | 235.37  | 24.86  |
 
 ### Technology
 
